@@ -13,7 +13,8 @@ Specification for Phase two can be found here: https://docs.google.com/document/
 
 Design idea can be found here: https://lucid.app/lucidchart/593baaf6-b166-4d2c-8f34-dd9513cbe7d3/edit?shared=true&page=HWEp-vi-RSFO&invitationId=inv_b29c5ab3-5d55-4966-8e7b-db4e963b4b6a# 
 
-**My Role**
+**MY ROLE**
+
 In this project I was resposible for the following:
 1) The "Scheduling" process which required me to enable the Organizer to schedule each speaker to give a talk at specific times in specific rooms, without double-booking a speaker (scheduling them to speak two places at the same time) or double-booking a room (scheduling two people to speak in the same room at the same time)
 2) Enhance the user's messaging experience by allowing them to "mark as unread", delete, or archive messages after reading them.
