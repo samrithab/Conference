@@ -1,4 +1,4 @@
-# Conference
+# Conference Systen
 
 This is a java application that I have created in a team of 8 (Contributers: Samritha Balamoni, Tiffanie Truong, Matthew Zhu, Robin Huo, Thaneeshan Kethees, Angela Uzelac, Rudy, Brandon) for a software design course at UofT (2020). 
 
