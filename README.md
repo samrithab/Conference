@@ -1,6 +1,6 @@
-# Conference Systen
+# Conference System
 
-This is a java application that I have created in a team of 8 (Contributers: Samritha Balamoni, Tiffanie Truong, Matthew Zhu, Robin Huo, Thaneeshan Kethees, Angela Uzelac, Rudy, Brandon) for a software design course at UofT (2020). 
+This is a **Java** based application that I have created with a team of 8 members (Contributers: Samritha Balamoni, Tiffanie Truong, Matthew Zhu, Robin Huo, Thaneeshan Kethees, Angela Uzelac, Rudy, Brandon) for a software design course at UofT (2020). 
 
 ***This project is contained in a zip file which can be downloaded***
 
